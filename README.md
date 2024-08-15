@@ -2,7 +2,7 @@
 
 ## Objective
 
-Performed a 30 hour Python Course developed by Google to understand Pythons use cases. I learned common Python expressions as well as user- defined functions. 
+Performed a 30 hour Python Course developed by Google to understand Pythons use cases. I learned common Python expressions as well as created user-defined functions. 
 
 ### Skills Learned
 
